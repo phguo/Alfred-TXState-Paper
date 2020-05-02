@@ -19,11 +19,11 @@ so that one can download a paper easily using the Texas State University Library
 # Usage
 - Using with Alfred hotkey - "⌘ Cmd + ↑ Shift + P".
 
-![hotkey](https://github.com/phguo/Alfred-TXState-Paper/screenshots/hotkey.gif)
+![hotkey](https://raw.githubusercontent.com/phguo/Alfred-TXState-Paper/master/screenshots/hotkey.gif)
 
 - Using with Alfred keyword - "paper".
 
-![keyword](https://github.com/phguo/Alfred-TXState-Paper/screenshots/keyword.gif)
+![keyword](https://raw.githubusercontent.com/phguo/Alfred-TXState-Paper/master/screenshots/keyword.gif)
 
 # TODO
 - Identify non-url input.
