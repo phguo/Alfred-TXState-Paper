@@ -26,6 +26,7 @@ so that one can download a paper easily using the Texas State University Library
 ![keyword](https://raw.githubusercontent.com/phguo/Alfred-TXState-Paper/master/screenshots/keyword.gif)
 
 # TODO
+- Identify current tab.
 - Identify non-url input.
 - Identify not supported databases, supported databases can be found at this [menu](https://libproxy.txstate.edu/menu).
 
