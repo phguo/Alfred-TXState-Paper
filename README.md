@@ -12,7 +12,7 @@ so that one can download a paper easily using the Texas State University Library
 
 # Getting Started
 1. Install [Alfred 4](https://www.alfredapp.com/) (this workflow may also compatible with Alfred 3 and Alfred 2, not tested) with a [Powerpack](https://www.alfredapp.com/shop/) licence.
-2. Download workflow source file form [release page](https://github.com/phguo/Alfred-TXState-Paper/releases) and double-click.
+2. Download workflow source file from [release page](https://github.com/phguo/Alfred-TXState-Paper/releases) and double-click.
 3. Click on "import" to import "TXState Paper" into your Alfred workflows.
 4. Set a hotkey for url transformation, "⌘ Cmd + ↑ Shift + P" is recommended.
 
