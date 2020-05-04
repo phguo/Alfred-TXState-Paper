@@ -26,9 +26,9 @@ so that one can download a paper easily using the Texas State University Library
 ![keyword](https://raw.githubusercontent.com/phguo/Alfred-TXState-Paper/master/screenshots/keyword.gif)
 
 # TODO
-- Identify current tab.
-- Identify non-url input.
-- Identify not supported databases, supported databases can be found at this [menu](https://libproxy.txstate.edu/menu).
+- ✅Identify current tab.
+- ❎Identify non-url input.
+- ❎Identify not supported databases, supported databases can be found at this [menu](https://libproxy.txstate.edu/menu).
 
 # License
 This project is licensed under the MIT License, see the [LICENSE](https://github.com/phguo/Alfred-TXState-Paper/blob/master/LICENSE) file for details.
