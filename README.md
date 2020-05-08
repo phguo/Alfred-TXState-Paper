@@ -25,15 +25,15 @@ so that one can download a paper easily using the Texas State University Library
 
 ![keyword](https://raw.githubusercontent.com/phguo/Alfred-TXState-Paper/master/screenshots/keyword.gif)
 
-# Versioning
+# Changelog
 For the versions available, see [releases on this repository](https://github.com/phguo/Alfred-TXState-Paper/releases).
 
-- [__v1.1__](https://github.com/phguo/Alfred-TXState-Paper/releases/tag/v1.1) released on May 4, 2020
-    - *update:* Using hotkey to transform current tab's URL.
-    - *remove:* Using hotkey to transform URL on clipboard.
-- [__v1.0__](https://github.com/phguo/Alfred-TXState-Paper/releases/tag/v1.0) released on May 3, 2020
-    - *feature:* Using hotkey to transform URL on clipboard.
-    - *feature:* Using keyword "paper" to transform URL.
+- [__v1.1__](https://github.com/phguo/Alfred-TXState-Paper/releases/tag/v1.1) - May 4, 2020
+    - *Changed:* Using hotkey to transform current tab's URL.
+    - *Removed:* Using hotkey to transform URL on clipboard.
+- [__v1.0__](https://github.com/phguo/Alfred-TXState-Paper/releases/tag/v1.0) - May 3, 2020
+    - *Added:* Using hotkey to transform URL on clipboard.
+    - *Added:* Using keyword "paper" to transform URL.
 
 # TODO
 - ✅Identify current tab.
