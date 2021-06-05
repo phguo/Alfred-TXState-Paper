@@ -36,9 +36,9 @@ For the versions available, see [releases on this repository](https://github.com
     - *Added:* Using keyword "paper" to transform URL.
 
 # TODO
-- ✅Identify current tab.
-- ❎Identify non-url input.
-- ❎Identify not supported databases, supported databases can be found at this [menu](https://libproxy.txstate.edu/menu).
+- [x] Identify current tab.
+- [ ] Identify non-url input.
+- [ ] Identify not supported databases, supported databases can be found at this [menu](https://libproxy.txstate.edu/menu).
 
 # License
 This project is licensed under the MIT License, see the [LICENSE](https://github.com/phguo/Alfred-TXState-Paper/blob/master/LICENSE) file for details.
